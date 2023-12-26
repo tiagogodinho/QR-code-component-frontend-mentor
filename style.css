@@ -14,9 +14,6 @@ body {
   font-family: 'Outfit', sans-serif;
   font-size: 15px;
   background-color: var(--light-gray-bg-color);
-}
-
-.container {
   min-height: 100vh;
   display: flex;
   align-items: center;
