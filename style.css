@@ -15,9 +15,8 @@ body {
   font-size: 15px;
   background-color: var(--light-gray-bg-color);
   min-height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  display: grid;
+  place-content: center;
 }
 
 .card {
